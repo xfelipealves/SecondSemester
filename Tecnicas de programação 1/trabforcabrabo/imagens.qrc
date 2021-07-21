@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images/icons">
+        <file>images/icons/rank.png</file>
+        <file>images/icons/play.png</file>
+        <file>images/icons/kick.png</file>
+    </qresource>
+</RCC>

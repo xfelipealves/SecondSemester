@@ -1,0 +1,7 @@
+3) Para garantir a integralidade da classe. Os construtores sao executados no momento em que vc instacia um objeto.
+
+1) A orientação aos objetos tem como objetivo representar alguma coisa dentro do contexto computacional de forma abstrata por meio de classes, no qual as mesmas são definidas por meio de uma descrição de suas caracteristicas(atributos) e suas determinadas funções(metodos). A classe em si pode ser considerada, informalmente, como um conjunto de variaveis e funções com tipos que podem ser diferentes ou iguais. No momento que eu defino uma classe "prova" e instancio b, e essa "b" é do tipo de alguma "prova", esse meu "b" se torna um objeto do tipo "prova" e, a partir de agora, posso utiliza-lo dentro do meu contexto computacional.
+
+2) O que é declarado dentro do modificador public pode ser alterado diretamente pelo programador quando quiser, geralmente é usado para funções e construtores. Já o que é declarado no modificador private não pode ser alterado diretamente, o que é declarado como "private" só pode ser declarado atraves de métodos publicos que se referem à alguma variavel declarada em private. O modificador "private" geralmente é utilizado para declarar os atributos da classe, para que assim, possa assegurar a integralidade dos atributos.
+
+4) Encapsulamento consiste na junção de varias variaveis e métodos referidas pela mesmo artefato(classe), em que eu posso declarar qualquer objeto e alterar essas variaveis e utilizar metodos de cada objeto.
