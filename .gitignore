@@ -1,0 +1,34 @@
+# Generated C++ build artifacts
+*.exe
+*.o
+*.out
+*.gch
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.pdb
+*.ilk
+*.stackdump
+
+# Common generated build directories and project outputs
+build/
+cmake-build-*/
+CMakeFiles/
+Debug/
+Release/
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Extensionless compiler outputs preserved in the historical exercise tree
+/Tecnicas de programação 1/Programas TP/Lista 1B/10
+/Tecnicas de programação 1/Programas TP/Lista 1B/6
+/Tecnicas de programação 1/Programas TP/Lista 1B/7
+/Tecnicas de programação 1/Programas TP/Lista 1B/9
+/Tecnicas de programação 1/Programas TP/Lista 1C/3
+/Tecnicas de programação 1/Programas TP/Lista 1C/4
+/Tecnicas de programação 1/Programas TP/Lista 1C/5
+/Tecnicas de programação 1/Programas TP/Lista 1C/6
+/Tecnicas de programação 1/Programas TP/Lista 1C/7
